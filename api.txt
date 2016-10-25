@@ -1,0 +1,15 @@
+Biblioteka FileOperations będzie ona umożlwiać w dużo łatwiejszy sposób podstawowe operacje na plikach 
+
+void readFile(Path path) - metoda sluzaca do wyswietlenia zawartosci danego pliku,
+void writeFile(Path path) - metoda umozliwiajaca zapisywanie stringa przez uzytkownika 
+void isExist(Path path) - metoda umozliwiajaca sprawdzenie czy dany plik istnieje 
+void saveFile(Path path, String string) - metoda zapisująca zmiany w danym pliku.
+boolean saveCallback() - Metoda zwracajaca czy zapis sie powiodl
+
+
+Podział Pracy wszystko zrobię ja :) 
+Wszelkie prawa zastrzeżone Paweł Dawiduk 
+
+
+
+ 
